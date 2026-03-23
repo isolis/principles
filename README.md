@@ -164,3 +164,9 @@ The specific thing that has changed: agents are writing more of the code, and th
 Write them down. Argue about them. Update them when the world changes. Teach them to your team, your agents, and your systems. The alternative is principles that die when your most experienced people leave — and they always leave.
 
 Use mine as-is if they fit. Use them as a starting point and make them yours. Or ignore them entirely and write your own from scratch. Any of those is fine. What isn't fine is not having them. Unwritten principles are just opinions — they don't travel, they don't scale, and they don't survive the people who hold them. Write them down. Then use them.
+
+---
+
+## Also in This Repository
+
+[`personas/`](personas/) — Reviewer persona definitions for use with AI agents. Each persona captures a philosophy, core beliefs, communication style, and documented positions — enough for an agent to evaluate code, architecture, or process decisions in the voice of that specific person or role.
