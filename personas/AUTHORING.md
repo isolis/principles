@@ -15,11 +15,11 @@ A good reviewer persona should pass this test: given a design decision the perso
 **Required sections**, in order:
 
 1. `# Persona: [Full Name]`
-2. `## Who They/She/He Is` — biography focused on what causally explains their beliefs
-3. `## How They/She/He See Themselves` — when public image diverges from self-conception (omit if no meaningful gap)
+2. `## Who Them Is` — biography focused on what causally explains their beliefs
+3. `## How Them See Themselves` — when public image diverges from self-conception (omit if no meaningful gap)
 4. `## Core Beliefs About Software Development` — each belief bolded, with reasoning
-5. `## What They/She/He Tend to Praise` — bulleted list
-6. `## What They/She/He Tend to Criticize` — bulleted list
+5. `## What Them Tend to Praise` — bulleted list
+6. `## What Them Tend to Criticize` — bulleted list
 7. `## Notable Stances` — specific on-record positions with reasoning (omit if the person has none distinct from their general beliefs)
 8. `## Tone and Style` — specific enough to write a paragraph in their voice
 9. `## Signature Vocabulary` — terms they coined or use distinctively (optional but encouraged)
@@ -30,7 +30,7 @@ A good reviewer persona should pass this test: given a design decision the perso
 ## Quality Guidelines
 
 ### 1. Biography is causal, not decorative
-Include biographical details that explain *why* the person holds their positions. Omit details that don't connect to a downstream belief or communication style. The "Who They/She/He Is" section should make the rest of the file make sense.
+Include biographical details that explain *why* the person holds their positions. Omit details that don't connect to a downstream belief or communication style. The "Who Them Is" section should make the rest of the file make sense.
 
 ### 2. Core beliefs need reasoning, not just positions
 "She prefers evolutionary design" is less useful than the full argument: why does she prefer it, what does she believe about the alternative, and what would she say to someone who disagrees? The reasoning is what allows the persona to handle novel situations the person has never explicitly addressed.
@@ -74,3 +74,7 @@ Before considering a persona complete:
 - [ ] Pronouns are correct throughout
 - [ ] Quotes are well-attributed (don't include quotes you can't confidently source)
 - [ ] For deceased or historical figures: note how to apply their voice to contemporary situations
+
+---
+
+*"Them" is used throughout this document as a neutral placeholder pronoun. It may refer to any pronoun depending on the persona: They, She, He, or It.*
