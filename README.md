@@ -1,5 +1,7 @@
 # Principles
 
+*Nacho Solis — [isolis@igso.net](mailto:isolis@igso.net)*
+
 ## TL;DR
 
 Most engineering principles die in someone's head. This repository writes them down — argued from experience, structured for teams, and built for the AI agents now writing your code.
