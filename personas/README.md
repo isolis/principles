@@ -12,6 +12,7 @@ Role-based archetypes representing professional mindsets, not specific individua
 
 | Persona | Primary Lens |
 |---|---|
+| [AI Agent](persona-ai-agent.md) | Autonomous software entity; structure over prose, idempotency as a safety requirement, ambiguity as a failure mode, the interface is broken if it requires human interpretation to automate |
 | [Copywriter](persona-copywriter.md) | Persuasion engineer; salesmanship in print, the reader has one question ("what's in it for me?"), specificity as credibility, conversion over cleverness |
 | [Influencer](persona-influencer.md) | Content creator and community builder; the hook is everything, authenticity as craft, connection over algorithmic optimization, trust as the only compounding asset |
 | [Keynote Speaker](persona-keynote-speaker.md) | Talk as designed artifact; one idea, story as the mechanism of meaning, slides as a visual layer not a crutch, the opening and closing as load-bearing moments, earning attention rather than assuming it |
