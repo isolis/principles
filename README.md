@@ -8,7 +8,7 @@ Most engineering principles die in someone's head. This repository writes them d
 
 ---
 
-## Introduction
+## Background
 
 Every engineering team has principles. Most of them live in someone's head.
 
@@ -155,10 +155,12 @@ Legal requirements are not a post-launch checklist. GDPR, CCPA, HIPAA, PCI-DSS, 
 
 ---
 
-## Conclusion
+## Write Yours Down
 
 The principles don't change. The environment they operate in does.
 
 The specific thing that has changed: agents are writing more of the code, and they have no access to the tacit knowledge your senior engineers carry. They will reproduce the patterns they find — good and bad, with equal confidence. In that environment, written principles are not a nicety. They are the only mechanism by which your team's judgment travels into the code an agent writes on your behalf.
 
 Write them down. Argue about them. Update them when the world changes. Teach them to your team, your agents, and your systems. The alternative is principles that die when your most experienced people leave — and they always leave.
+
+Use mine as-is if they fit. Use them as a starting point and make them yours. Or ignore them entirely and write your own from scratch. Any of those is fine. What isn't fine is not having them. Unwritten principles are just opinions — they don't travel, they don't scale, and they don't survive the people who hold them. Write them down. Then use them.
