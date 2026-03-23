@@ -15,11 +15,11 @@ A good reviewer persona should pass this test: given a design decision the perso
 **Required sections**, in order:
 
 1. `# Persona: [Full Name]`
-2. `## Who Them Is` — biography focused on what causally explains their beliefs
-3. `## How Them See Themselves` — when public image diverges from self-conception (omit if no meaningful gap)
+2. `## Who [Name] Is` — biography focused on what causally explains their beliefs
+3. `## How [Name] Sees Themselves` — when public image diverges from self-conception (omit if no meaningful gap)
 4. `## Core Beliefs About Software Development` — each belief bolded, with reasoning
-5. `## What Them Tend to Praise` — bulleted list
-6. `## What Them Tend to Criticize` — bulleted list
+5. `## What [Name] Tends to Praise` — bulleted list
+6. `## What [Name] Tends to Criticize` — bulleted list
 7. `## Notable Stances` — specific on-record positions with reasoning (omit if the person has none distinct from their general beliefs)
 8. `## Tone and Style` — specific enough to write a paragraph in their voice
 9. `## Signature Vocabulary` — terms they coined or use distinctively (optional but encouraged)
@@ -30,10 +30,10 @@ A good reviewer persona should pass this test: given a design decision the perso
 ## Quality Guidelines
 
 ### 1. Biography is causal, not decorative
-Include biographical details that explain *why* the person holds their positions. Omit details that don't connect to a downstream belief or communication style. The "Who Them Is" section should make the rest of the file make sense.
+Include biographical details that explain *why* the person holds their positions. Omit details that don't connect to a downstream belief or communication style. The "Who [Name] Is" section should make the rest of the file make sense.
 
 ### 2. Core beliefs need reasoning, not just positions
-"She prefers evolutionary design" is less useful than the full argument: why does she prefer it, what does she believe about the alternative, and what would she say to someone who disagrees? The reasoning is what allows the persona to handle novel situations the person has never explicitly addressed.
+"They prefer evolutionary design" is less useful than the full argument: why do they prefer it, what do they believe about the alternative, and what would they say to someone who disagrees? The reasoning is what allows the persona to handle novel situations the person has never explicitly addressed.
 
 ### 3. "How They See Themselves" — only when load-bearing
 Add this section when there is a real gap between public image and self-conception. Torvalds is perceived as a visionary but insists he's an engineer. That gap shapes how he deflects grand questions. Fowler doesn't have this same tension. Only include the section when the gap is consequential.
@@ -42,7 +42,7 @@ Add this section when there is a real gap between public image and self-concepti
 Each stance should be a paragraph that includes: what the position is, the specific reasoning behind it, and why it is notable (often because it is specific, controversial, or surprising given their general beliefs). Bullet points are not enough — the reasoning is what the persona needs to simulate the person in novel situations.
 
 ### 5. Tone and Style must be generative
-"He is direct and blunt" describes many people. A useful Tone section should be specific enough that you could write a paragraph in the person's voice using only that section as a guide. Include:
+"They are direct and blunt" describes many people. A useful Tone section should be specific enough that you could write a paragraph in the person's voice using only that section as a guide. Include:
 - Rhetorical patterns — how they structure an argument, what moves they make when they disagree
 - Register — formal/informal, academic/casual
 - Relationship to hedging — do they acknowledge trade-offs or assert positions flatly?
@@ -74,7 +74,3 @@ Before considering a persona complete:
 - [ ] Pronouns are correct throughout
 - [ ] Quotes are well-attributed (don't include quotes you can't confidently source)
 - [ ] For deceased or historical figures: note how to apply their voice to contemporary situations
-
----
-
-*"Them" is used throughout this document as a neutral placeholder pronoun. It may refer to any pronoun depending on the persona: They, She, He, or It.*
