@@ -1,0 +1,388 @@
+{
+  "personas": [
+    {
+      "name": "Customer Success Lead",
+      "type": "generic",
+      "file": "persona-customer-success.md",
+      "areas": ["product adoption and renewal risk", "gap between promised and delivered experience", "customer escalation and relationship health", "translating customer context into product requirements"]
+    },
+    {
+      "name": "Diplomat",
+      "type": "generic",
+      "file": "persona-diplomat.md",
+      "areas": ["stakeholder alignment and conflict resolution", "cross-team and cross-cultural negotiation", "sensitive or contentious decision-making", "finding durable consensus under competing interests"]
+    },
+    {
+      "name": "Pure Sciences Researcher",
+      "type": "generic",
+      "file": "persona-scientist.md",
+      "areas": ["experimental methodology and study design", "statistical rigor and reproducibility", "claims vs. evidence quality", "scientific reasoning and epistemic standards"]
+    },
+    {
+      "name": "Venture Capitalist",
+      "type": "generic",
+      "file": "persona-vc.md",
+      "areas": ["market size and business model viability", "founding team and execution capability assessment", "product-market fit signals and retention", "capital efficiency and growth path"]
+    },
+    {
+      "name": "Accessibility Engineer",
+      "type": "generic",
+      "file": "persona-accessibility-engineer.md",
+      "areas": ["accessibility compliance and WCAG audit", "semantic HTML and ARIA usage", "keyboard and assistive technology support", "inclusive design review"]
+    },
+    {
+      "name": "AI Agent",
+      "type": "generic",
+      "file": "persona-ai-agent.md",
+      "areas": ["API and schema design for automation", "idempotency and error contract design", "structured and machine-readable interfaces", "agent-operable system design"]
+    },
+    {
+      "name": "Backend Engineer",
+      "type": "generic",
+      "file": "persona-backend-engineer.md",
+      "areas": ["data modeling and schema design", "API contract design", "service architecture and boundaries", "failure modes and reliability patterns"]
+    },
+    {
+      "name": "CEO / Founder",
+      "type": "generic",
+      "file": "persona-ceo.md",
+      "areas": ["strategic alignment of technical decisions", "organizational implications of technical choices", "narrative and product vision coherence", "survival and runway impact"]
+    },
+    {
+      "name": "CFO / Finance Lead",
+      "type": "generic",
+      "file": "persona-cfo.md",
+      "areas": ["infrastructure cost and cloud spend", "build vs. buy financial analysis", "headcount and resource allocation", "unit economics and business model viability"]
+    },
+    {
+      "name": "Comedian (Sarcastic)",
+      "type": "generic",
+      "file": "persona-comedian.md",
+      "areas": ["process and ceremony critique", "jargon and overengineering detection", "gap between stated and actual practice", "organizational absurdity and self-importance"]
+    },
+    {
+      "name": "Copywriter",
+      "type": "generic",
+      "file": "persona-copywriter.md",
+      "areas": ["marketing and product copy", "user-facing messaging and tone", "conversion and persuasion effectiveness", "clarity of value proposition"]
+    },
+    {
+      "name": "Data Analyst",
+      "type": "generic",
+      "file": "persona-data-analyst.md",
+      "areas": ["metrics design and instrumentation", "data quality and methodology", "causation vs. correlation reasoning", "decision-driven analysis framing"]
+    },
+    {
+      "name": "Developer Relations Engineer",
+      "type": "generic",
+      "file": "persona-devrel.md",
+      "areas": ["API and SDK developer experience", "documentation quality and onboarding flows", "developer community and ecosystem health", "technical content and tutorials"]
+    },
+    {
+      "name": "Embedded / Firmware Engineer",
+      "type": "generic",
+      "file": "persona-embedded-engineer.md",
+      "areas": ["bare metal and RTOS systems", "real-time and deterministic execution", "interrupt handling and memory constraints", "hardware/software boundary and peripheral design"]
+    },
+    {
+      "name": "Engineering Manager",
+      "type": "generic",
+      "file": "persona-engineering-manager.md",
+      "areas": ["team health and psychological safety", "career growth and performance management", "hiring and team composition", "engineering process and culture"]
+    },
+    {
+      "name": "Ethnographer",
+      "type": "generic",
+      "file": "persona-ethnographer.md",
+      "areas": ["organizational culture and informal practices", "workarounds as design signals", "gap between documented and actual workflows", "contextual observation and thick description"]
+    },
+    {
+      "name": "Frontend / Web Engineer",
+      "type": "generic",
+      "file": "persona-frontend-engineer.md",
+      "areas": ["browser compatibility and web standards", "frontend performance and bundle size", "state management and UI architecture", "accessibility in web interfaces"]
+    },
+    {
+      "name": "Influencer",
+      "type": "generic",
+      "file": "persona-influencer.md",
+      "areas": ["social media content and hooks", "audience engagement and community building", "personal brand and authenticity", "content strategy and distribution"]
+    },
+    {
+      "name": "Keynote Speaker",
+      "type": "generic",
+      "file": "persona-keynote-speaker.md",
+      "areas": ["talk structure and narrative arc", "slide design and visual communication", "idea clarity and memorability", "opening and closing effectiveness"]
+    },
+    {
+      "name": "Legal Counsel (In-House)",
+      "type": "generic",
+      "file": "persona-legal-counsel.md",
+      "areas": ["IP ownership and open source licensing", "data privacy and regulatory compliance", "contract and agreement review", "risk calibration for technical decisions"]
+    },
+    {
+      "name": "MLOps / AI Engineer",
+      "type": "generic",
+      "file": "persona-mlops-engineer.md",
+      "areas": ["model deployment and serving infrastructure", "training/serving skew and data pipelines", "ML monitoring and drift detection", "reproducibility and model lifecycle management"]
+    },
+    {
+      "name": "Mobile Engineer",
+      "type": "generic",
+      "file": "persona-mobile-engineer.md",
+      "areas": ["iOS and Android platform patterns", "offline-first and connectivity resilience", "battery and performance constraints", "app store release process and feature flags"]
+    },
+    {
+      "name": "OS / Systems Engineer",
+      "type": "generic",
+      "file": "persona-os-engineer.md",
+      "areas": ["systems programming and low-level code", "memory management and allocation strategy", "kernel interfaces and system calls", "performance at the hardware/software boundary"]
+    },
+    {
+      "name": "Performance Engineer",
+      "type": "generic",
+      "file": "persona-performance-engineer.md",
+      "areas": ["latency profiling and bottleneck identification", "benchmarking methodology", "query and algorithm efficiency", "tail latency and production performance analysis"]
+    },
+    {
+      "name": "Product Manager",
+      "type": "generic",
+      "file": "persona-product-manager.md",
+      "areas": ["problem definition and user needs", "prioritization and roadmap decisions", "feature scope and tradeoffs", "outcome measurement and success metrics"]
+    },
+    {
+      "name": "Pun Lover",
+      "type": "generic",
+      "file": "persona-pun-lover.md",
+      "areas": ["naming and terminology creativity", "wordplay in technical content and documentation", "lighthearted review of any domain", "pun potential in copy and communications"]
+    },
+    {
+      "name": "QA / Test Engineer",
+      "type": "generic",
+      "file": "persona-qa-engineer.md",
+      "areas": ["test strategy and coverage quality", "edge case and failure mode identification", "regression and quality process", "testability of design and implementation"]
+    },
+    {
+      "name": "Security Engineer",
+      "type": "generic",
+      "file": "persona-security-engineer.md",
+      "areas": ["threat modeling and attack surface analysis", "authentication and authorization design", "input validation and injection risks", "security architecture and trust boundaries"]
+    },
+    {
+      "name": "Site Reliability Engineer",
+      "type": "generic",
+      "file": "persona-sre.md",
+      "areas": ["reliability and SLO design", "on-call and incident response process", "toil reduction and automation", "observability and monitoring strategy"]
+    },
+    {
+      "name": "Solutions Architect",
+      "type": "generic",
+      "file": "persona-solutions-architect.md",
+      "areas": ["customer fit and use case alignment", "platform and vendor selection", "migration and integration design", "time-to-value and deployment feasibility"]
+    },
+    {
+      "name": "Staff / Principal Engineer",
+      "type": "generic",
+      "file": "persona-staff-engineer.md",
+      "areas": ["cross-team technical coherence", "architectural decision making", "technical strategy and long-term planning", "organizational leverage and engineering culture"]
+    },
+    {
+      "name": "Technical Program Manager",
+      "type": "generic",
+      "file": "persona-technical-program-manager.md",
+      "areas": ["cross-team dependency management", "project risk and critical path", "launch readiness and coordination", "escalation and decision tracking"]
+    },
+    {
+      "name": "Technical Writer",
+      "type": "generic",
+      "file": "persona-tech-writer.md",
+      "areas": ["documentation structure and findability", "tutorial and how-to quality", "API reference and developer docs", "clarity and precision of technical prose"]
+    },
+    {
+      "name": "Unix Greybeard",
+      "type": "generic",
+      "file": "persona-unix-greybeard.md",
+      "areas": ["Unix and POSIX design principles", "system administration and operations", "dependency and complexity management", "shell scripting and toolchain design"]
+    },
+    {
+      "name": "UX Researcher",
+      "type": "generic",
+      "file": "persona-ux-researcher.md",
+      "areas": ["usability and user testing methodology", "mental model and interaction design", "gap between intended and actual user behavior", "research framing and evidence quality"]
+    },
+    {
+      "name": "Brendan Gregg",
+      "type": "named",
+      "file": "persona-brendan-gregg.md",
+      "areas": ["systems performance profiling and methodology", "eBPF and kernel-level tracing", "flame graph analysis", "production performance diagnosis"]
+    },
+    {
+      "name": "Bret Victor",
+      "type": "named",
+      "file": "persona-bret-victor.md",
+      "areas": ["programming environment and tool design", "live feedback and direct manipulation interfaces", "explorable explanations and interactive media", "the gap between code and running system behavior"]
+    },
+    {
+      "name": "Don Norman",
+      "type": "named",
+      "file": "persona-don-norman.md",
+      "areas": ["usability and human-centered design", "affordances, signifiers, and mental models", "error prevention and forcing functions", "design critique through cognitive psychology"]
+    },
+    {
+      "name": "Guido van Rossum",
+      "type": "named",
+      "file": "persona-guido-van-rossum.md",
+      "areas": ["language and API design philosophy", "readability and code clarity", "Python idioms and ecosystem", "gradual typing and pragmatic design tradeoffs"]
+    },
+    {
+      "name": "Kelsey Hightower",
+      "type": "named",
+      "file": "persona-kelsey-hightower.md",
+      "areas": ["cloud-native and Kubernetes architecture", "developer experience and onboarding", "infrastructure complexity and simplicity", "building for understanding before automation"]
+    },
+    {
+      "name": "Ken Thompson",
+      "type": "named",
+      "file": "persona-ken-thompson.md",
+      "areas": ["Unix philosophy and tool design", "language design and minimalism", "orthogonality and composability", "security and trust chain reasoning"]
+    },
+    {
+      "name": "Michael Stonebraker",
+      "type": "named",
+      "file": "persona-michael-stonebraker.md",
+      "areas": ["database architecture and storage engine design", "OLTP vs OLAP workload analysis", "ACID consistency and correctness", "benchmark methodology and vendor claims"]
+    },
+    {
+      "name": "Nicole Forsgren",
+      "type": "named",
+      "file": "persona-nicole-forsgren.md",
+      "areas": ["software delivery performance and DORA metrics", "DevOps and continuous delivery practices", "engineering team productivity measurement", "deployment pipeline and release process"]
+    },
+    {
+      "name": "Timnit Gebru",
+      "type": "named",
+      "file": "persona-timnit-gebru.md",
+      "areas": ["algorithmic bias and fairness in AI systems", "data documentation and model accountability", "societal impact of large-scale ML deployment", "ethics and power in AI development"]
+    },
+    {
+      "name": "Ada Lovelace",
+      "type": "named",
+      "file": "persona-ada-lovelace.md",
+      "areas": ["general-purpose computation concepts", "algorithmic thinking and mathematical foundations", "boundaries of what machines can and cannot do", "symbolic and formal reasoning"]
+    },
+    {
+      "name": "Andrej Karpathy",
+      "type": "named",
+      "file": "persona-andrej-karpathy.md",
+      "areas": ["neural network architecture and training", "ML codebase simplicity and clarity", "software 2.0 and learned systems", "AI research to production translation"]
+    },
+    {
+      "name": "Barbara Liskov",
+      "type": "named",
+      "file": "persona-barbara-liskov.md",
+      "areas": ["abstract data types and encapsulation", "type system and interface design", "distributed systems correctness", "local reasoning and substitutability"]
+    },
+    {
+      "name": "Bryan Cantrill",
+      "type": "named",
+      "file": "persona-bryan-cantrill.md",
+      "areas": ["production observability and debugging", "systems software and instrumentation", "Rust and systems programming", "hardware/software co-design"]
+    },
+    {
+      "name": "Charity Majors",
+      "type": "named",
+      "file": "persona-charity-majors.md",
+      "areas": ["observability and distributed tracing", "production debugging and on-call culture", "developer ownership of reliability", "validity of test and staging environments"]
+    },
+    {
+      "name": "Donald Knuth",
+      "type": "named",
+      "file": "persona-donald-knuth.md",
+      "areas": ["algorithm correctness and complexity analysis", "code as literature and literate programming", "mathematical rigor in software", "performance of fundamental algorithms"]
+    },
+    {
+      "name": "Edsger Dijkstra",
+      "type": "named",
+      "file": "persona-edsger-dijkstra.md",
+      "areas": ["program correctness and formal reasoning", "structured programming and control flow", "elegance and mathematical beauty in code", "correctness as the only acceptable standard"]
+    },
+    {
+      "name": "Fred Brooks",
+      "type": "named",
+      "file": "persona-fred-brooks.md",
+      "areas": ["software project management and team scaling", "conceptual integrity and architectural vision", "essential vs. accidental complexity", "limits of process and tooling as silver bullets"]
+    },
+    {
+      "name": "Grady Booch",
+      "type": "named",
+      "file": "persona-grady-booch.md",
+      "areas": ["object-oriented design and UML", "software architecture as cost of change", "long-arc software craftsmanship", "AI and LLM limitations in software engineering"]
+    },
+    {
+      "name": "Ian Murdock",
+      "type": "named",
+      "file": "persona-ian-murdock.md",
+      "areas": ["software distribution and packaging", "open source governance and licensing", "dependency management", "community-driven development models"]
+    },
+    {
+      "name": "Jeff Dean",
+      "type": "named",
+      "file": "persona-jeff-dean.md",
+      "areas": ["large-scale distributed systems design", "back-of-the-envelope capacity reasoning", "ML systems at scale", "hardware and systems co-design for AI"]
+    },
+    {
+      "name": "Kent Beck",
+      "type": "named",
+      "file": "persona-kent-beck.md",
+      "areas": ["test-driven development", "evolutionary and emergent design", "extreme programming practices", "simplicity and optionality in software design"]
+    },
+    {
+      "name": "Lennart Poettering",
+      "type": "named",
+      "file": "persona-lennart-poettering.md",
+      "areas": ["Linux system services and init design", "declarative configuration", "structured logging and journaling", "security constraints in service definitions"]
+    },
+    {
+      "name": "Leslie Lamport",
+      "type": "named",
+      "file": "persona-leslie-lamport.md",
+      "areas": ["distributed systems correctness and consensus", "formal specification and TLA+", "logical clocks and causality", "mathematical reasoning about concurrent systems"]
+    },
+    {
+      "name": "Linus Torvalds",
+      "type": "named",
+      "file": "persona-linus-torvalds.md",
+      "areas": ["Linux kernel and systems code", "data structure and algorithm design", "backwards compatibility and API stability", "C and low-level programming tradeoffs"]
+    },
+    {
+      "name": "Margaret Hamilton",
+      "type": "named",
+      "file": "persona-margaret-hamilton.md",
+      "areas": ["software reliability and fault tolerance", "error handling as first-class design", "software engineering rigor and process", "human-error-resistant system design"]
+    },
+    {
+      "name": "Martin Fowler",
+      "type": "named",
+      "file": "persona-martin-fowler.md",
+      "areas": ["refactoring and incremental code improvement", "evolutionary design and continuous delivery", "enterprise software patterns", "agile practices and team structure"]
+    },
+    {
+      "name": "Rich Hickey",
+      "type": "named",
+      "file": "persona-rich-hickey.md",
+      "areas": ["data-oriented and functional design", "simplicity vs. accidental complexity", "immutability and state management", "API and language design philosophy"]
+    },
+    {
+      "name": "Robert C. Martin",
+      "type": "named",
+      "file": "persona-robert-c-martin.md",
+      "areas": ["SOLID principles and clean code", "test-driven development", "software craftsmanship and professional practice", "dependency inversion and layered architecture"]
+    },
+    {
+      "name": "Werner Vogels",
+      "type": "named",
+      "file": "persona-werner-vogels.md",
+      "areas": ["distributed systems at scale", "failure handling and operational resilience", "you-build-it-you-run-it ownership culture", "cost-conscious and frugal architecture"]
+    }
+  ]
+}
