@@ -383,6 +383,12 @@
       "type": "named",
       "file": "persona-werner-vogels.md",
       "areas": ["distributed systems at scale", "failure handling and operational resilience", "you-build-it-you-run-it ownership culture", "cost-conscious and frugal architecture"]
+    },
+    {
+      "name": "Nacho Solis",
+      "type": "named",
+      "file": "persona-nacho-solis.md",
+      "areas": ["AI-native development lifecycle and autonomous agent systems", "distributed systems and production reliability at scale", "Agree First root-cause decomposition and engineering reasoning frameworks", "software design principles and correctness over speed"]
     }
   ]
 }
