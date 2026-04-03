@@ -1,6 +1,12 @@
 {
   "personas": [
     {
+      "name": "Blank",
+      "type": "meta",
+      "file": "persona-blank.md",
+      "areas": ["base model behavior", "default model reasoning", "model comparison across engines", "unfiltered model voice"]
+    },
+    {
       "name": "Customer Success Lead",
       "type": "generic",
       "file": "persona-customer-success.md",
